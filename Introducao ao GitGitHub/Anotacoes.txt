@@ -1,0 +1,12 @@
+Comandos básicos do Git:
+git clone: É usado para clonar repositórios do GitHub, para usar basta usar o código Git mais o link do repositório.
+cd: É usando para navegar entre as pastas, para usá-lo basta usar o cd mais o nome da pasta.
+git status: É usado para ver o status do seu arquivo, com isso voce pode ou não gerar commits.
+code . : É usado para abrir a IDE VsCode.
+git commit -m "mensagem": É usado para embalar os dados e prepará-los para fazer o commit.
+git checkout -b nome do arquivo que vocè quiser: É usado para criar uma branch, é uma boa prática.
+git push origin nome da branch que eu escolhi: É usado para enviar os dados da minha máquina para o GitHub.
+
+Para primeiro acesso ao Git:
+git config --global user.email "aquivocecolocaoseuemail.com"
+git config --global user.name " Aqui voce coloca seu nome"
